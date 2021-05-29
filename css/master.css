@@ -12,6 +12,11 @@
   border-radius: 10px;
 }
 
+.card:hover{
+  transition-duration:.5s;
+  border:0px solid;
+}
+
 .card_title {
   margin: 1em 2em auto 2em;
   border-bottom: 1px solid;
