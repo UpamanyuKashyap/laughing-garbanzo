@@ -1,0 +1,40 @@
+.title {
+  text-align: center;
+  font-size: 2em;
+}
+
+.card {
+  margin: 20px auto 20px auto;
+  max-width: 90%;
+  min-height: 100%;
+  display: flow-root;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+.card_title {
+  margin: 1em 2em auto 2em;
+  border-bottom: 1px solid;
+}
+
+.card_section {
+  margin: 2em 2.3em 0em 2.3em;
+}
+
+.card_section_paragraph {
+  margin: 1em 0em 0em 0em;
+}
+
+.card_quote {
+  font-size: 5em;
+  color: lightgray;
+  margin-top: -25px;
+}
+
+.top {
+  float: left;
+}
+
+.bottom {
+  float: right;
+}
